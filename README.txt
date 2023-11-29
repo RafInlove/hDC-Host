@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d3f42341-0893-4615-b3fb-bec5cb6427e3/deploy-status)](https://app.netlify.com/sites/chipper-rolypoly-8d043c/deploys)
